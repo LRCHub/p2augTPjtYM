@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "傷つき傷つけ痛くて辛い",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-01-13T16:58:57.105959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "傷つき傷つけ痛くて辛い",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/01_傷つき傷つけ痛くて辛い_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "傷つき傷つけ痛くて辛い",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_傷つき傷つけ痛くて辛い_トゲナシトゲアリ.txt"
+    }
+  ]
+}
